@@ -1,0 +1,21 @@
+{
+	"description":"Protect your server against raids! [Invite me](https://discord.com/oauth2/authorize?client_id=639693481761177601&scope=bot&permissions=268553216)",
+	"color":{
+		"info":"#4287f5",
+		"warning":"#FFAC33",
+		"danger":"#f05040",
+		"hack":"#4287f5"
+	},
+
+	"usefulLink":[
+		{
+			"name" : "invite",
+			"url" : "https://discordapp.com/oauth2/authorize?client_id={{botId}}&scope=bot&permissions=523328"
+		},
+		{
+			"name" : "Github_repo",
+			"url": "https://github.com/GoruAkiba/simple-master-bot"
+		}
+		
+	]
+}
