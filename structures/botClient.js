@@ -8,7 +8,6 @@ class botClient extends Client {
 
 		// define constructor
 		this.util = require("../utils/util");
-		this.setting = require("../bot_setting.json");
 	}
 }
 const client = new botClient();
